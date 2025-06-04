@@ -6,9 +6,6 @@ namespace OPCUA_API.WorkWithServer
     {
         private Process _opcUaServerProcess;
 
-        
-
-
         /// <summary>
         /// Запуск OPC UA Servera на стороне localhost
         /// </summary>

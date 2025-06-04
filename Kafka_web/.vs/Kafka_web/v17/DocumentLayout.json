@@ -3,27 +3,19 @@
   "WorkspaceRootPath": "D:\\WORK\\module35\\Kafka_web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|D:\\WORK\\module35\\Kafka_web\\kafka_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:kafka_web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|D:\\WORK\\module35\\Kafka_web\\views\\home\\inputkafka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:views\\home\\inputkafka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|d:\\work\\module35\\kafka_web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|d:\\work\\module35\\kafka_web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|d:\\work\\module35\\kafka_web\\kafka_web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:kafka_web.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WORK\\Kafrka_API\\Kafka_API\\WorkWithKafka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D867DD-EBC2-4367-888D-085033A4CE84}|..\\OPCUA_API\\OPCUA_API.csproj|d:\\work\\module35\\opcua_api\\workwithserver\\runopcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|D:\\WORK\\module35\\Kafka_web\\wwwroot\\css\\kafka.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:wwwroot\\css\\kafka.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|D:\\WORK\\module35\\Kafka_web\\views\\home\\inputkafka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|solutionrelative:views\\home\\inputkafka.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DAF43E6-198E-4469-84BA-16CD49C2C583}|Kafka_web.csproj|D:\\WORK\\module35\\Kafka_web\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -37,11 +29,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 835,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "custom.js",
               "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\wwwroot\\js\\custom.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
@@ -54,16 +46,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\WORK\\module35\\Kafka_web\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T13:33:17.589Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "kafka.css",
+              "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\wwwroot\\css\\kafka.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\kafka.css",
+              "ToolTip": "D:\\WORK\\module35\\Kafka_web\\wwwroot\\css\\kafka.css",
+              "RelativeToolTip": "wwwroot\\css\\kafka.css",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-30T15:06:43.096Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -95,64 +87,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WORK\\module35\\Kafka_web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:14:51.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Kafka_web",
-              "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
-              "RelativeDocumentMoniker": "Kafka_web.csproj",
-              "ToolTip": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
-              "RelativeToolTip": "Kafka_web.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T11:36:32.648Z",
+              "Title": "RunOPCUA.cs",
+              "DocumentMoniker": "D:\\WORK\\module35\\OPCUA_API\\WorkWithServer\\RunOPCUA.cs",
+              "RelativeDocumentMoniker": "..\\OPCUA_API\\WorkWithServer\\RunOPCUA.cs",
+              "ToolTip": "D:\\WORK\\module35\\OPCUA_API\\WorkWithServer\\RunOPCUA.cs",
+              "RelativeToolTip": "..\\OPCUA_API\\WorkWithServer\\RunOPCUA.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:13:14.205Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Kafka_web.csproj",
-              "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
-              "RelativeDocumentMoniker": "Kafka_web.csproj",
-              "ToolTip": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
-              "RelativeToolTip": "Kafka_web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T11:35:05.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "InputKafka.cshtml",
               "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\Views\\Home\\InputKafka.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\InputKafka.cshtml",
               "ToolTip": "D:\\WORK\\module35\\Kafka_web\\Views\\Home\\InputKafka.cshtml",
               "RelativeToolTip": "Views\\Home\\InputKafka.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T15:06:50.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "kafka.css",
-              "DocumentMoniker": "D:\\WORK\\module35\\Kafka_web\\wwwroot\\css\\kafka.css",
-              "RelativeDocumentMoniker": "wwwroot\\css\\kafka.css",
-              "ToolTip": "D:\\WORK\\module35\\Kafka_web\\wwwroot\\css\\kafka.css",
-              "RelativeToolTip": "wwwroot\\css\\kafka.css",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-30T15:06:43.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WorkWithKafka.cs",
-              "DocumentMoniker": "D:\\WORK\\Kafrka_API\\Kafka_API\\WorkWithKafka.cs",
-              "RelativeDocumentMoniker": "..\\..\\Kafrka_API\\Kafka_API\\WorkWithKafka.cs",
-              "ToolTip": "D:\\WORK\\Kafrka_API\\Kafka_API\\WorkWithKafka.cs",
-              "RelativeToolTip": "..\\..\\Kafrka_API\\Kafka_API\\WorkWithKafka.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFoAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T15:06:22.609Z"
+              "WhenOpened": "2025-05-30T15:06:50.609Z",
+              "EditorCaption": ""
             }
           ]
         },

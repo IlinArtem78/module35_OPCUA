@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OPCUA_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70c2215b0fc46a77447c9f2a8e02271bb8e4b870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc3cdf382ea0726a86ad4e7d0fabf4b48af5a478")]
 [assembly: System.Reflection.AssemblyProductAttribute("OPCUA_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OPCUA_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

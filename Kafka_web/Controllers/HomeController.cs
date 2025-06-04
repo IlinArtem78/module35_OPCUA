@@ -67,7 +67,7 @@ namespace Kafka_web.Controllers
 
 
         [HttpPost]
-        public  IActionResult InputKafka(string KafkaURL, string Topic)
+        public async Task<IActionResult> InputKafkaAsync(string KafkaURL, string Topic)
         {
             
             var getAllMessages = new GetKafkaRespone();
@@ -77,6 +77,12 @@ namespace Kafka_web.Controllers
             var message = _kafkaAction.jsonToOPC;
             _workerOPCUA.JsonMessage = message;
             var model = new { Message = message };
+            if (model.Message == null)
+            {
+                return NotFound("Нет новых сообщений в Kafka.");
+            }
+            await Task.Delay(3000);
+            _runOpcUa.StartWindowsFormsApp();
             return Json(model);
             
 

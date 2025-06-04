@@ -62,8 +62,7 @@ public class WorkWithKafka
         
             try
             {
-               for(int i = 0; i<100; i++)
-               {
+              
                     var consumeResult = consumer.Consume(TimeSpan.FromSeconds(10));
                     if (consumeResult != null)
                     {
@@ -74,10 +73,10 @@ public class WorkWithKafka
                     {
                         Console.WriteLine("No message received within the timeout period.");
                       //  jsonToOPC = "No message received within the timeout period.";
-                        break;
+                        
                     }
                     
-               }
+               
             }
             catch (Exception ex)
             {
