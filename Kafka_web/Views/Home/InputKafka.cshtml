@@ -1,0 +1,52 @@
+﻿@{
+    Layout = "_Layout"; 
+}
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OPC UA Tree</title>
+    <link rel="stylesheet" href="~/css/kafka.css" asp-append-version="true">
+    <!-- Подключение jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+</head>
+<body>
+     <div class="rm">
+       
+        <div>
+            <p class="textmain">
+                Ввдеите данные для Kafka:
+            </p>
+            <p class="_address"> Адрес:</p>
+            <input class="input_address" type="text" value="192.168.101.189:9092" />
+            <p class="_topic"> Тема:</p>
+            <input class="input_topic" type="text" value="test-opcUA" />
+
+            <button class="buttonRunServ" id="RunServer" onclick="startServer()">Запустить сервер</button>
+            <button class="buttonStopServ" id="StopServer" onclick="stopServer()">Остановить сервер</button>
+           
+
+            <!-- Кнопка для отправки данных -->
+            <button class="buttonGive" id="giveData">Получить</button>
+
+            
+           
+
+        </div>
+
+
+        <div class="responce" id ="message">
+        </div>
+
+
+    </div>
+
+
+    <div id="treeContainer"></div>
+    <script src="~/js/kafka.js" asp-append-version="true"></script>
+    <!-- Вызов кода script js-->
+
+
+
+</body>

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C5kDxNa7NsQtRe7u6z97b2pX4RETh17Svy2rdMCWVdO+RJGzYG+IXdtHIY0Mo18yQfzx/HqXifkwbM4MWseBMQ==",
+  "success": true,
+  "projectFilePath": "D:\\WORK\\module35\\module35\\OPCUA_API\\OPCUA_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

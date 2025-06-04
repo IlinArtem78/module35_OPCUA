@@ -1,0 +1,112 @@
+﻿
+.rm {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    width: 551px;
+    height: 310px;
+    background: white;
+    background-blend-mode: normal;
+}
+
+    .rm .textmain {
+        position: absolute;
+        left: 5%;
+        top: -5%;
+        width: 83%;
+        height: 29px;
+        background: white;
+        background-blend-mode: normal;
+        color: #757575;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .rm ._address {
+        position: absolute;
+        left: 5%;
+        top: 23%;
+        width: 15%;
+        height: 29px;
+        color: #757575;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .rm .input_address {
+        position: absolute;
+        left: 25%;
+        top: 23%;
+        width: 58%;
+        height: 40px;
+        border: 1px solid #808080;
+        background: #ffffff;
+        background-blend-mode: normal;
+    }
+
+    .rm ._tom {
+        position: absolute;
+        left: 10%;
+        top: 37%;
+        width: 8%;
+        height: 29px;
+        color: #757575;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+    }
+
+    .rm .input_tom {
+        position: absolute;
+        left: 25%;
+        top: 37%;
+        width: 58%;
+        height: 42px;
+        border: 1px solid #808080;
+        background: #ffffff;
+        background-blend-mode: normal;
+    }
+    .rm ._message {
+        position: absolute;
+        left: 1%;
+        top: 52%;
+        width: 8%;
+        height: 29px;
+        color: #757575;
+        font-family: Inter;
+        font-size: 24px;
+        font-weight: 400;
+    }
+    .rm .input_message {
+        position: absolute;
+        left: 25%;
+        top: 52%;
+        width: 58%;
+        height: 42px;
+        border: 1px solid #808080;
+        background: #ffffff;
+        background-blend-mode: normal;
+    }
+
+
+    .rm .buttonSend {
+        position: absolute;
+        left: 354px;
+        top: 225px;
+        width: 105px;
+        height: 40px;
+        background: #2196f3;
+        background-blend-mode: normal;
+    }
+
+    .rm .responce {
+        position: absolute;
+        left: 554px;
+        top: 70px;
+        width: 185px;
+        height: 90px;
+        padding: 10px;
+        border: 1px solid #ddd;
+    }

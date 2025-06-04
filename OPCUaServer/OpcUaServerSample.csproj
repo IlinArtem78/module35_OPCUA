@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="System.ServiceModel.Primitives" Version="8.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OPCUA_API\OPCUA_API.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Opc.Ua.Configuration">
+      <HintPath>..\OPCUA_Server\OpcUaHelper\OpcUaServerSample\bin\Debug\Opc.Ua.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.Core">
+      <HintPath>..\OPCUA_Server\OpcUaHelper\OpcUaServerSample\bin\Debug\Opc.Ua.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.Server">
+      <HintPath>..\OPCUA_Server\OpcUaHelper\OpcUaServerSample\bin\Debug\Opc.Ua.Server.dll</HintPath>
+    </Reference>
+    <Reference Include="Opc.Ua.ServerControls">
+      <HintPath>..\OPCUA_Server\OpcUaHelper\OpcUaServerSample\bin\Debug\Opc.Ua.ServerControls.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IdentityModel">
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\System.IdentityModel\v4.0_4.0.0.0__b77a5c561934e089\System.IdentityModel.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Windows.Forms\2.0.0.0__b77a5c561934e089\System.Windows.Forms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

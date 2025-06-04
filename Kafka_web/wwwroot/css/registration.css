@@ -1,0 +1,87 @@
+﻿
+.rm {
+    position: relative;
+    margin: 0 auto; /* Центрируем контейнер */
+    width: 851px;
+    height: 410px;
+    background: white;
+    background-blend-mode: normal;
+}
+
+    .rm .logotip {
+        position: absolute;
+        left: 35%; /* ~300px из 851px */
+        top: 15%; /* ~60px из 410px */
+        width: 30%; /* ~255px из 851px */
+        height: 12%; /* ~49px из 410px */
+    }
+
+    .rm .textmain {
+        position: absolute;
+        left: 20%; /* ~170px из 851px */
+        top: 35%; /* ~145px из 410px */
+        width: 60%; /* ~510px из 851px */
+        height: 6%; /* ~25px из 410px */
+        -webkit-text-stroke: solid 1px #0c9120;
+        text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+        color: #32c451;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: italic;
+        font-weight: 100;
+        text-align: center;
+    }
+
+    .rm .input_login {
+        position: absolute;
+        left: 25%; /* ~213px из 851px */
+        top: 50%; /* ~205px из 410px */
+        width: 50%; /* ~425px из 851px */
+        height: 8%; /* ~33px из 410px */
+        border: 1px solid #bdbdbd;
+        background: #ffffff;
+        background-blend-mode: normal;
+        padding: 10px;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+
+    .rm .input_passw {
+        position: absolute;
+        left: 25%; /* ~213px из 851px */
+        top: 60%; /* ~245px из 410px */
+        width: 50%; /* ~425px из 851px */
+        height: 8%; /* ~33px из 410px */
+        border: 1px solid #bdbdbd;
+        background: #ffffff;
+        background-blend-mode: normal;
+        padding: 10px;
+        box-sizing: border-box;
+        font-size: 16px;
+    }
+
+    .rm .buttonRegistration {
+        position: absolute;
+        left: 40%; /* ~340px из 851px */
+        top: 70%; /* ~285px из 410px */
+        width: 15%; /* ~128px из 851px */
+        height: 8%; /* ~33px из 410px */
+        background: #2196f3;
+        background-blend-mode: normal;
+        border: none;
+        color: white;
+        font-size: 16px;
+        cursor: pointer;
+    }
+
+    /* Дополнительные стили для улучшения взаимодействия */
+    .rm input:focus {
+        outline: none;
+        border-color: #007bff;
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    }
+
+    .rm input::placeholder {
+        color: #999;
+        font-size: 16px;
+    }

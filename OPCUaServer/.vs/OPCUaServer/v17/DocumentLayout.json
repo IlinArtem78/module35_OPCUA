@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WORK\\OPCUaServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D46669-005B-49E3-8892-271A4F6777FD}|..\\WinFormsApp1\\WinFormsApp1.csproj|d:\\work\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D46669-005B-49E3-8892-271A4F6777FD}|..\\WinFormsApp1\\WinFormsApp1.csproj|d:\\work\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D46669-005B-49E3-8892-271A4F6777FD}|..\\WinFormsApp1\\WinFormsApp1.csproj|d:\\work\\winformsapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\referenceserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:referenceserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\referencenodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:referencenodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\repositoria\\opcuarepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:repositoria\\opcuarepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\namespaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:namespaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\repositoria\\iworkeropcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:repositoria\\iworkeropcua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\modeltags\\formatget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:modeltags\\formatget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\modeltags\\formatset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:modeltags\\formatset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|d:\\work\\opcuaserver\\referenceserverutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C305A934-81DE-4936-BA4C-6DDDAD54E054}|OPCUaServer.csproj|solutionrelative:referenceserverutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 376,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "D:\\WORK\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ToolTip": "D:\\WORK\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "..\\WinFormsApp1\\WinFormsApp1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-26T10:38:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\WORK\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:38:35.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\WORK\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\WinFormsApp1\\Form1.Designer.cs",
+              "ToolTip": "D:\\WORK\\WinFormsApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\WinFormsApp1\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:38:34.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReferenceServer.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\ReferenceServer.cs",
+              "RelativeDocumentMoniker": "ReferenceServer.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\ReferenceServer.cs",
+              "RelativeToolTip": "ReferenceServer.cs",
+              "ViewState": "AQIAAMcAAAAAAAAAAAD4v9YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:25:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Namespaces.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\Namespaces.cs",
+              "RelativeDocumentMoniker": "Namespaces.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\Namespaces.cs",
+              "RelativeToolTip": "Namespaces.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:24:40.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OPCUARepositories.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\Repositoria\\OPCUARepositories.cs",
+              "RelativeDocumentMoniker": "Repositoria\\OPCUARepositories.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\Repositoria\\OPCUARepositories.cs",
+              "RelativeToolTip": "Repositoria\\OPCUARepositories.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:16:34.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReferenceNodeManager.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\ReferenceNodeManager.cs",
+              "RelativeDocumentMoniker": "ReferenceNodeManager.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\ReferenceNodeManager.cs",
+              "RelativeToolTip": "ReferenceNodeManager.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAD4v6QAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:16:31.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:13:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IWorkerOPCUA.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\Repositoria\\IWorkerOPCUA.cs",
+              "RelativeDocumentMoniker": "Repositoria\\IWorkerOPCUA.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\Repositoria\\IWorkerOPCUA.cs",
+              "RelativeToolTip": "Repositoria\\IWorkerOPCUA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:16:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormatGet.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\ModelTags\\FormatGet.cs",
+              "RelativeDocumentMoniker": "ModelTags\\FormatGet.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\ModelTags\\FormatGet.cs",
+              "RelativeToolTip": "ModelTags\\FormatGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:16:37.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormatSet.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\ModelTags\\FormatSet.cs",
+              "RelativeDocumentMoniker": "ModelTags\\FormatSet.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\ModelTags\\FormatSet.cs",
+              "RelativeToolTip": "ModelTags\\FormatSet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:16:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:11:11.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReferenceServerUtils.cs",
+              "DocumentMoniker": "D:\\WORK\\OPCUaServer\\ReferenceServerUtils.cs",
+              "RelativeDocumentMoniker": "ReferenceServerUtils.cs",
+              "ToolTip": "D:\\WORK\\OPCUaServer\\ReferenceServerUtils.cs",
+              "RelativeToolTip": "ReferenceServerUtils.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:14:33.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 519,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

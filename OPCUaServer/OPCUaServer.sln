@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCUaServer", "OPCUaServer.csproj", "{C305A934-81DE-4936-BA4C-6DDDAD54E054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "..\WinFormsApp1\WinFormsApp1.csproj", "{63D46669-005B-49E3-8892-271A4F6777FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C305A934-81DE-4936-BA4C-6DDDAD54E054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C305A934-81DE-4936-BA4C-6DDDAD54E054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C305A934-81DE-4936-BA4C-6DDDAD54E054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C305A934-81DE-4936-BA4C-6DDDAD54E054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63D46669-005B-49E3-8892-271A4F6777FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D46669-005B-49E3-8892-271A4F6777FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D46669-005B-49E3-8892-271A4F6777FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D46669-005B-49E3-8892-271A4F6777FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {429BFB9F-E5A6-40B1-9B18-97217378BA5C}
+	EndGlobalSection
+EndGlobal
