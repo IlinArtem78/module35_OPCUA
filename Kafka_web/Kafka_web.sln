@@ -4,12 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kafka_web", "Kafka_web.csproj", "{7DAF43E6-198E-4469-84BA-16CD49C2C583}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kafka_API", "..\Kafrka_API\Kafka_API\Kafka_API.csproj", "{AF92A0D8-0CBF-450C-8F49-9B562F873998}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9C08AE97-A843-4693-A749-167C3547D864} = {9C08AE97-A843-4693-A749-167C3547D864}
+	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpcUaServerSample", "..\OPCUaServer\OpcUaServerSample.csproj", "{7E5F77A0-DAAF-43C8-A004-B49A2903AE37}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OPCUA_API", "..\OPCUA_API\OPCUA_API.csproj", "{81D867DD-EBC2-4367-888D-085033A4CE84}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kafka_API", "..\Kafka_API\Kafka_API.csproj", "{9C08AE97-A843-4693-A749-167C3547D864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,10 +24,6 @@ Global
 		{7DAF43E6-198E-4469-84BA-16CD49C2C583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DAF43E6-198E-4469-84BA-16CD49C2C583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DAF43E6-198E-4469-84BA-16CD49C2C583}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AF92A0D8-0CBF-450C-8F49-9B562F873998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AF92A0D8-0CBF-450C-8F49-9B562F873998}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AF92A0D8-0CBF-450C-8F49-9B562F873998}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AF92A0D8-0CBF-450C-8F49-9B562F873998}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7E5F77A0-DAAF-43C8-A004-B49A2903AE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7E5F77A0-DAAF-43C8-A004-B49A2903AE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E5F77A0-DAAF-43C8-A004-B49A2903AE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -33,6 +32,10 @@ Global
 		{81D867DD-EBC2-4367-888D-085033A4CE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81D867DD-EBC2-4367-888D-085033A4CE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81D867DD-EBC2-4367-888D-085033A4CE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C08AE97-A843-4693-A749-167C3547D864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C08AE97-A843-4693-A749-167C3547D864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C08AE97-A843-4693-A749-167C3547D864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C08AE97-A843-4693-A749-167C3547D864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

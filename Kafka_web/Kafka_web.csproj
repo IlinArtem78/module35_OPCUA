@@ -14,12 +14,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kafka_web\Kafka_API.csproj" />
-    <ProjectReference Include="..\OPCUA_API\OPCUA_API.csproj" />
+    <None Include="wwwroot\images\logo.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\images\logo.png" />
+    <ProjectReference Include="..\Kafka_API\Kafka_API.csproj" />
+    <ProjectReference Include="..\OPCUA_API\OPCUA_API.csproj" />
   </ItemGroup>
 
 </Project>

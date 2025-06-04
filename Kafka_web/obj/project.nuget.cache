@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GK7zOsryJrXFYjhU78dKRIIQOP3kEcyWVupZRH6poFXp/en+CQyk9PTzUouXVtFx7cNq+DLKkJF03675TQYOoQ==",
-  "success": false,
-  "projectFilePath": "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_web.csproj",
+  "dgSpecHash": "ABGvKXM2jCIuCDsGVx3A7d9eUtOVFQyzrxHx4Mi2qL5trdYwXnpqC6mNifwzd37hBGhjs72k8l+de26oeiAYdA==",
+  "success": true,
+  "projectFilePath": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\confluent.kafka\\2.8.0\\confluent.kafka.2.8.0.nupkg.sha512",
@@ -23,15 +23,5 @@
     "C:\\Users\\User\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\system.servicemodel.primitives\\4.5.3\\system.servicemodel.primitives.4.5.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -404,6 +404,19 @@
           "lib/netstandard2.0/System.ServiceModel.dll": {}
         }
       },
+      "Kafka_API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Confluent.Kafka": "2.8.0"
+        },
+        "compile": {
+          "bin/placeholder/Kafka_API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kafka_API.dll": {}
+        }
+      },
       "OPCUA_API/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1017,6 +1030,11 @@
         "version.txt"
       ]
     },
+    "Kafka_API/1.0.0": {
+      "type": "project",
+      "path": "../Kafka_API/Kafka_API.csproj",
+      "msbuildProject": "../Kafka_API/Kafka_API.csproj"
+    },
     "OPCUA_API/1.0.0": {
       "type": "project",
       "path": "../OPCUA_API/OPCUA_API.csproj",
@@ -1027,7 +1045,7 @@
     "net8.0": [
       "AutoMapper >= 14.0.0",
       "Confluent.Kafka >= 2.8.0",
-      "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj",
+      "Kafka_API >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3",
       "OPCUA_API >= 1.0.0",
       "Opc.UaFx.Advanced >= 2.42.5"
@@ -1039,11 +1057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_web.csproj",
+      "projectUniqueName": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
       "projectName": "Kafka_web",
-      "projectPath": "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_web.csproj",
+      "projectPath": "D:\\WORK\\module35\\Kafka_web\\Kafka_web.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\module35\\module35\\Kafka_web\\obj\\",
+      "outputPath": "D:\\WORK\\module35\\Kafka_web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1060,11 +1078,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj": {
-              "projectPath": "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj"
+            "D:\\WORK\\module35\\Kafka_API\\Kafka_API.csproj": {
+              "projectPath": "D:\\WORK\\module35\\Kafka_API\\Kafka_API.csproj"
             },
-            "D:\\WORK\\module35\\module35\\OPCUA_API\\OPCUA_API.csproj": {
-              "projectPath": "D:\\WORK\\module35\\module35\\OPCUA_API\\OPCUA_API.csproj"
+            "D:\\WORK\\module35\\OPCUA_API\\OPCUA_API.csproj": {
+              "projectPath": "D:\\WORK\\module35\\OPCUA_API\\OPCUA_API.csproj"
             }
           }
         }
@@ -1123,16 +1141,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Не удалось найти проект \"D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
-      "libraryId": "D:\\WORK\\module35\\module35\\Kafka_web\\Kafka_API.csproj",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kafka_web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea26c4ab87ab2a8e8510a0e3ff81bb8145ed1c95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70c2215b0fc46a77447c9f2a8e02271bb8e4b870")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kafka_web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kafka_web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

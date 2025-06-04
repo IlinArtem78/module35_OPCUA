@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WORK\\module35\\module35\\OPCUA_API\\OPCUA_API.csproj",
+      "projectUniqueName": "D:\\WORK\\module35\\OPCUA_API\\OPCUA_API.csproj",
       "projectName": "OPCUA_API",
-      "projectPath": "D:\\WORK\\module35\\module35\\OPCUA_API\\OPCUA_API.csproj",
+      "projectPath": "D:\\WORK\\module35\\OPCUA_API\\OPCUA_API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\WORK\\module35\\module35\\OPCUA_API\\obj\\",
+      "outputPath": "D:\\WORK\\module35\\OPCUA_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
